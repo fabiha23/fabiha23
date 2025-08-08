@@ -2,7 +2,7 @@
 <img src="banner.jpg" alt="banner" width="100%" />
 </div>
 <h2 align="center">Hi 👋! This is Fabiha</h2>
-<h2 align="center">A Passionate Web Developer from Bangladesh</h2>
+<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
 <br>
 <h2>👩‍💻 About Me</h2>
@@ -53,12 +53,15 @@
   </a>
 </p>
 <br>
-## 📈 GitHub Stats
 
-Here’s a snapshot of my coding progress and contributions! 💻✨  
-Tracking commits, repos, and languages used. 🔧📊
+<h2>📈 GitHub Stats</h2>
+<p>Here’s a snapshot of my coding progress and contributions! 💻✨<br/>
+Tracking commits, repos, and languages used. 🔧📊</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiha23&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiha23&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
 
 
 

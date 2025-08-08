@@ -52,6 +52,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" />
   </a>
 </p>
+<br>
+## 📈 GitHub Stats
+
+Here’s a snapshot of my coding progress and contributions! 💻✨  
+Tracking commits, repos, and languages used. 🔧📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiha23&show_icons=true&theme=radical)
+
+
 
 
 

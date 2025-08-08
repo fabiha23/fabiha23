@@ -1,8 +1,12 @@
+<div align="center">
+ 
+ 
+<img width="100%" src="https://raw.githubusercontent.com/" alt="cover" />
+</div>
 <h2 align="left">Hi 👋! My name is Fabiha ... and I'm a passionate Web Developer, from Bangladesh</h2>
 
 ###
 
-[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components)
 
 <!--
 **fabiha23/fabiha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

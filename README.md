@@ -45,13 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
 </p>
 <br>
-<h2>🔗 Reach Me at</h2>
+<h2>🔗 Connect With Me</h2>
 
-<p>
-  <a href="mailto:fabiha.amatullah@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="30" height="30" />
-  </a>
-</p>
 <p>
   <a href="https://www.facebook.com/fabiha.amatullah.2024/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" />

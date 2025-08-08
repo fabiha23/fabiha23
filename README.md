@@ -1,7 +1,5 @@
 <div align="center">
- 
- 
-<img src="banner.png" alt="banner" width="100%" style="height: 200px; object-fit: cover;" />
+<img src="banner.png" alt="banner" width="100%" />
 </div>
 <h2 align="left">Hi 👋! My name is Fabiha ... and I'm a passionate Web Developer, from Bangladesh</h2>
 
